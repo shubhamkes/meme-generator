@@ -1,3 +1,7 @@
+Super easy meme generator.
+
+Watch Repo in action - https://meme-generator-4559d.firebaseapp.com/
+
 * npm install
 * Head to https://imgflip.com/
 * signup there
